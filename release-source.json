@@ -1,0 +1,24 @@
+{
+  "target": "kotlin",
+  "version": "0.1.0",
+  "tag": "v0.1.0",
+  "repository": "https://github.com/AnyOAuth/anyoauth-kotlin",
+  "release": "https://github.com/AnyOAuth/anyoauth-kotlin/releases/tag/v0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "sourceCommit": "c44e7460cbebe26a6baa00bc6c4ee2f48d69e907",
+  "files": {
+    ".github/workflows/verify.yml": "9055695a7b48f31f086a6ae0ec75afcbac9349cc5b5b4a6c87018d4ec1d68c57",
+    ".gitignore": "de3c0bfc38c228c9c7fe37a2726be443fee294a0f46319c6a89005ea8d328c65",
+    "LICENSE": "3c9fac2d1ae230e52ce82ed635341b438e0c4957bc637a1a792c2def5b82c61a",
+    "README.md": "d128a9c0334037066506439865edea59447af0af85a1961f59d0ece56dcc8cb2",
+    "build.gradle.kts": "fb9559a3794c3dff288d6a2ac4160981dc8b71ef04746a3ed3ee864f2705f5a9",
+    "build.mjs": "a3802ce99105ffdfd6b260e16d192c35f09add08c1c21287b05181e4a8bba843",
+    "conformance.test.mjs": "1500c6898fca7ba190f59d08e7c2b8255c14f230b377fe6b6d7034dd89a170a6",
+    "provenance.json": "1865e1c9bd6826c0804aaaadb28b669a0f061fabcb07a4b86d3e36deeec6ce6b",
+    "settings.gradle.kts": "047ffa51a2dc6cfc118eb1dcf4e60ceed1f5e7465f239e8a19e1003b0acc72df",
+    "src/main/kotlin/com/anyoauth/AnyOAuth.kt": "5ae393cb29b914dc9b24523353fa74eba98b3f178ef6bf3a8c26275f159285fc",
+    "src/test/kotlin/com/anyoauth/conformance/Main.kt": "e9813d139fa40c98b2fb9125296c06c40c7ac58625a8d2fd469c419569f6b6dd",
+    "src/test/kotlin/com/anyoauth/modelchecks/Main.kt": "177b88caa0175d8d6d7262463ce9f867df8d9fc6512f1729f1ecfef70515052e",
+    "verify.mjs": "8a7a8b0b2fb236a810a8b04496b2b66e8539bd49c61bd0c05302a59f664da0db"
+  }
+}

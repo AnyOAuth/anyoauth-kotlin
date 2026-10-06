@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "schemaSha256": "1b99cb23da24b2aa0af33d45aadf907de460185671bc29fa61402450e390d6a2",
+  "generatorVersion": "1",
+  "target": "kotlin",
+  "files": [
+    ".github/workflows/verify.yml",
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "build.gradle.kts",
+    "build.mjs",
+    "conformance.test.mjs",
+    "settings.gradle.kts",
+    "src/main/kotlin/com/anyoauth/AnyOAuth.kt",
+    "src/test/kotlin/com/anyoauth/conformance/Main.kt",
+    "src/test/kotlin/com/anyoauth/modelchecks/Main.kt",
+    "verify.mjs"
+  ]
+}
